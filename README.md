@@ -1,5 +1,5 @@
 <h1 align="center">Josué Salazar</h1>
-<h3 align="center">Founder & CEO · API SERVICE SAC &nbsp;|&nbsp; Creator of DooService</h3>
+<h3 align="center">Founder & CEO · API SERVICE SAC &nbsp;|&nbsp; Creator of dooservice</h3>
 
 <p align="center">
   <a href="https://dooservice.sh" target="_blank">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dooservice" target="_blank">
-    <img src="https://img.shields.io/badge/DooService_OSS-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/dooservice_OSS-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -22,13 +22,13 @@
 
 Full Stack Engineer and Odoo specialist based in Peru. I build and operate cloud infrastructure for Odoo teams through **[API SERVICE SAC](https://apiservicesac.com)** — a software company focused on Odoo development, integrations, and enterprise deployments.
 
-I created **[DooService](https://dooservice.sh)** — an open-source platform for managing Odoo infrastructure at scale: provisioning, environments, deployments, backups, and scaling, all driven by a distributed agent architecture over NATS JetStream.
+I created **[dooservice](https://dooservice.sh)** — an open-source platform for managing Odoo infrastructure at scale: provisioning, environments, deployments, backups, and scaling, all driven by a distributed agent architecture over NATS JetStream.
 
 ```
 Odoo Consultant & Developer  →  Custom modules, QWEB reports, OWL components
 Full Stack Engineer          →  REST APIs, microservices, frontend SPAs
 Infrastructure               →  Self-hosted & cloud, Docker, Ubuntu Server, AWS
-Open Source                  →  DooService — github.com/dooservice
+Open Source                  →  dooservice — github.com/dooservice
 ```
 
 ---
