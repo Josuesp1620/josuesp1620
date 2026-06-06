@@ -8,7 +8,7 @@
   <a href="https://apiservicesac.com" target="_blank">
     <img src="https://img.shields.io/badge/apiservicesac.com-0A66C2?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/josuesp1620" target="_blank">
+  <a href="https://linkedin.com/in/joucode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dooservice" target="_blank">
