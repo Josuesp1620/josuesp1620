@@ -85,13 +85,6 @@ Open Source                  →  DooService — github.com/dooservice
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuesp1620&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesp1620&layout=compact&theme=dark&hide_border=true&langs_count=8" height="150" />
-</p>
-
 ---
 
 <p align="center">
